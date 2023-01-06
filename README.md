@@ -12,9 +12,9 @@ Made by HurtGhostMeow
 - 板载DDR4 最大支持2GB
 - USB Type-C DisplayPort Alt Mode采用龙迅LT6711D方案
 
-## 硬件部分
+# 硬件部分
 ### [x] 原理图制作
 ### [] PCB设计
 
-## 软件部分
+# 软件部分
 不会写先鸽着
