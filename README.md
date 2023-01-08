@@ -14,7 +14,7 @@ Made by HurtGhostMeow
 
 # 硬件部分
 ### [x] 原理图制作
-### [] PCB设计
+### [x] PCB设计
 
 # 软件部分
 不会写先鸽着
