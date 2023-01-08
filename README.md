@@ -1,6 +1,9 @@
 # MisaBoard on ARM
 单接口多功能服务器向开发板
+
 Made by HurtGhostMeow
+
+License:MIT
 
 # 特点
 - 基于全志H616+AW869
