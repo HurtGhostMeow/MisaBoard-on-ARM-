@@ -1,5 +1,6 @@
 # MisaBoard on ARM（尚未验证）
 单接口多功能服务器向开发板
+没钱，先咕咕了~~
 
 Made by HurtGhostMeow
 
